@@ -19,7 +19,7 @@ function App(): JSX.Element {
     {
       name: 'USA',
       flag: 'https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png',
-      relationWithINR: 0.014
+      relationWithINR: 0.016
     },
     {
       name: 'China',
